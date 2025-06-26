@@ -1,0 +1,32 @@
+command_id: DB33.0162
+test_cases:
+- expected_values:
+    TQ_ACT: 10
+  response: 18DAF11503416287
+- expected_values:
+    TQ_ACT: 12
+  response: 18DAF11503416289
+- expected_values:
+    TQ_ACT: 13
+  response: 18DAF1150341628A
+- expected_values:
+    TQ_ACT: 22
+  response: 18DAF11503416293
+- expected_values:
+    TQ_ACT: 39
+  response: 18DAF115034162A4
+- expected_values:
+    TQ_ACT: 49
+  response: 18DAF115034162AE
+- expected_values:
+    TQ_ACT: 51
+  response: 18DAF115034162B0
+- expected_values:
+    TQ_ACT: 53
+  response: 18DAF115034162B2
+- expected_values:
+    TQ_ACT: 57
+  response: 18DAF115034162B6
+- expected_values:
+    TQ_ACT: 60
+  response: 18DAF115034162B9
