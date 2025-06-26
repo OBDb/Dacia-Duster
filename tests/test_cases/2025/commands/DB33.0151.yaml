@@ -1,0 +1,8 @@
+command_id: DB33.0151
+test_cases:
+- expected_values:
+    FUEL_TYP: BI_GAS
+  response: 18DAF11503415109
+- expected_values:
+    FUEL_TYP: BI_LPG
+  response: 18DAF1150341510C
