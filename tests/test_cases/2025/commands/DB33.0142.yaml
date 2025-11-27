@@ -4,11 +4,11 @@ test_cases:
     VPWR: 11.699
   response: 18DAF1150441422DB3
 - expected_values:
-    VPWR: 11.777
-  response: 18DAF1150441422E01
-- expected_values:
     VPWR: 12.031
   response: 18DAF1150441422EFF
+- expected_values:
+    VPWR: 14.336
+  response: 18DAF1150441423800
 - expected_values:
     VPWR: 15.469
   response: 18DAF1150441423C6D
