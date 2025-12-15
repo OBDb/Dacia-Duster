@@ -4,5 +4,5 @@ test_cases:
     TQ_DD: 0
   response: 18DAF1150341617D
 - expected_values:
-    TQ_DD: 110
-  response: 18DAF115034161EB
+    TQ_DD: 111
+  response: 18DAF115034161EC
