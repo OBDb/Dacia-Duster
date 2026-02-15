@@ -59,6 +59,12 @@ test_cases:
 - expected_values:
     BAT_SOC: 67.05882
   response: |-
+    18DAF1DA03415BAA
+    18DAF1DB03415BAA
+    18DAF1DF03415BAB
+- expected_values:
+    BAT_SOC: 67.05882
+  response: |-
     18DAF1DA03415BAB
     18DAF1DB03415BAB
     18DAF1DF03415BAB
