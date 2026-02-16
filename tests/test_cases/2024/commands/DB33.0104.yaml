@@ -39,6 +39,13 @@ test_cases:
     18DAF1DB0341043E
     18DAF1DF0341043D
 - expected_values:
+    LOAD_PCT: 69.01961
+  response: |-
+    18DAF115034104B2
+    18DAF1DA034104AF
+    18DAF1DF034104B1
+    18DAF1DB034104B0
+- expected_values:
     LOAD_PCT: 69.80392
   response: |-
     18DAF115034104B5
@@ -46,12 +53,19 @@ test_cases:
     18DAF1DF034104B3
     18DAF1DB034104B2
 - expected_values:
+    LOAD_PCT: 71.76471
+  response: |-
+    18DAF115034104BE
+    18DAF1DB034104BB
+    18DAF1DA034104BC
+    18DAF1DF034104B7
+- expected_values:
     LOAD_PCT: 0
   response: |-
     18DAF1DA03410400
     18DAF11503410400
-    18DAF1DF03410400
     18DAF1DB03410400
+    18DAF1DF03410400
 - expected_values:
     LOAD_PCT: 100
   response: |-
