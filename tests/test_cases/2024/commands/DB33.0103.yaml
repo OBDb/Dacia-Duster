@@ -8,3 +8,7 @@ test_cases:
     FUELSYS1: 'OFF'
     FUELSYS2: CL
   response: 18DAF1150441030002
+- expected_values:
+    FUELSYS1: CL
+    FUELSYS2: 'OFF'
+  response: 18DAF1150441030200
