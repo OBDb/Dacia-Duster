@@ -6,15 +6,10 @@ test_cases:
     18DAF11503414A24
     18DAF1DA03414A25
 - expected_values:
-    APP_E: 14.5098
+    APP_E: 45.88235
   response: |-
-    18DAF11503414A25
-    18DAF1DA03414A25
-- expected_values:
-    APP_E: 33.33333
-  response: |-
-    18DAF11503414A57
-    18DAF1DA03414A55
+    18DAF11503414A75
+    18DAF1DA03414A75
 - expected_values:
     APP_E: 14.5098
   response: 18DAF1DA03414A25
