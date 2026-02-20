@@ -86,10 +86,16 @@ test_cases:
 - expected_values:
     RPM: 0
   response: |-
+    18DAF1DB04410C0000
+    18DAF1DF04410CFFFC
+    18DAF1DA04410C0000
+- expected_values:
+    RPM: 0
+  response: |-
     18DAF1DF04410C0000
     18DAF11504410C0000
-    18DAF1DB04410C0000
     18DAF1DA04410C0000
+    18DAF1DB04410C0000
 - expected_values:
     RPM: 1789
   response: |-
