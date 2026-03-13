@@ -46,9 +46,9 @@ test_cases:
     RPM: 0
   response: |-
     18DAF11504410C19FA
-    18DAF1DA04410C1A77
-    18DAF1DF04410C1919
+    18DAF1DA04410C1A4B
     18DAF1DB04410C0000
+    18DAF1DF04410C0000
 - expected_values:
     RPM: 0
   response: |-
