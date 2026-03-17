@@ -9,6 +9,10 @@ test_cases:
     VFUEL_RATE: 0.18
   response: 18DAF11506419D00090009
 - expected_values:
+    FUEL_RATE_ALT: 0.2
+    VFUEL_RATE: 0.2
+  response: 18DAF11506419D000A000A
+- expected_values:
     FUEL_RATE_ALT: 0.28
     VFUEL_RATE: 0.28
   response: 18DAF11506419D000E000E
@@ -20,6 +24,14 @@ test_cases:
     FUEL_RATE_ALT: 0.78
     VFUEL_RATE: 0.78
   response: 18DAF11506419D00270027
+- expected_values:
+    FUEL_RATE_ALT: 0.88
+    VFUEL_RATE: 0.88
+  response: 18DAF11506419D002C002C
+- expected_values:
+    FUEL_RATE_ALT: 0.94
+    VFUEL_RATE: 0.94
+  response: 18DAF11506419D002F002F
 - expected_values:
     FUEL_RATE_ALT: 1.02
     VFUEL_RATE: 1.02

@@ -7,8 +7,14 @@ test_cases:
     EXH_RATE: 6
   response: 18DAF11504419E001E
 - expected_values:
+    EXH_RATE: 11.4
+  response: 18DAF11504419E0039
+- expected_values:
     EXH_RATE: 33
   response: 18DAF11504419E00A5
 - expected_values:
     EXH_RATE: 40.8
   response: 18DAF11504419E00CC
+- expected_values:
+    EXH_RATE: 46.2
+  response: 18DAF11504419E00E7

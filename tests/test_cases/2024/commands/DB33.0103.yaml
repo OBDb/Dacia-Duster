@@ -9,6 +9,14 @@ test_cases:
     FUELSYS2: CL
   response: 18DAF1150441030002
 - expected_values:
+    FUELSYS1: OL
+    FUELSYS2: 'OFF'
+  response: 18DAF1150441030100
+- expected_values:
     FUELSYS1: CL
     FUELSYS2: 'OFF'
   response: 18DAF1150441030200
+- expected_values:
+    FUELSYS1: OL-Drive
+    FUELSYS2: 'OFF'
+  response: 18DAF1150441030400
