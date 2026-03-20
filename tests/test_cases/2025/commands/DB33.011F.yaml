@@ -4,8 +4,38 @@ test_cases:
     RUNTM: 0
   response: 18DAF11504411F0000
 - expected_values:
+    RUNTM: 43
+  response: |-
+    18DAF11504411F002A
+    18DAF1DA04411F002B
+- expected_values:
     RUNTM: 255
   response: 18DAF11504411F00FF
 - expected_values:
+    RUNTM: 523
+  response: |-
+    18DAF11504411F0200
+    18DAF1DA04411F020B
+- expected_values:
+    RUNTM: 1084
+  response: |-
+    18DAF11504411F092E
+    18DAF1DA04411F043C
+- expected_values:
+    RUNTM: 1148
+  response: |-
+    18DAF11504411F096D
+    18DAF1DA04411F047C
+- expected_values:
     RUNTM: 7945
   response: 18DAF11504411F1F09
+- expected_values:
+    RUNTM: 39
+  response: |-
+    18DAF1DA04411F0027
+    18DAF11504411F0027
+- expected_values:
+    RUNTM: 229
+  response: |-
+    18DAF1DA04411F00E9
+    18DAF11504411F00E5
