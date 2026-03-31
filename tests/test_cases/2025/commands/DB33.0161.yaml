@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     TQ_DD: 111
   response: 18DAF115034161EC
+- expected_values:
+    TQ_DD: 0
+  response: 18DAF1DA0341617D

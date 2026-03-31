@@ -4,5 +4,104 @@ test_cases:
     ECT: 1
   response: 18DAF11503410529
 - expected_values:
+    ECT: 15
+  response: |-
+    18DAF11503410537
+    18DAF1DB03410537
+    18DAF1DA03410537
+    18DAF1DF03410537
+- expected_values:
+    ECT: 15
+  response: |-
+    18DAF11503410537
+    18DAF1DF03410537
+    18DAF1DA03410537
+    18DAF1DB03410537
+- expected_values:
+    ECT: 19
+  response: |-
+    18DAF1150341053B
+    18DAF1DB0341053B
+    18DAF1DF0341053B
+    18DAF1DA0341053B
+- expected_values:
+    ECT: 23
+  response: |-
+    18DAF1150341053F
+    18DAF1DB0341053F
+    18DAF1DF0341053F
+    18DAF1DA0341053F
+- expected_values:
+    ECT: 56
+  response: |-
+    18DAF11503410560
+    18DAF1DA03410560
+    18DAF1DB03410560
+    18DAF1DF03410560
+- expected_values:
+    ECT: 62
+  response: |-
+    18DAF11503410566
+    18DAF1DA03410566
+    18DAF1DB03410566
+    18DAF1DF03410566
+- expected_values:
     ECT: 100
   response: 18DAF1150341058C
+- expected_values:
+    ECT: 200
+  response: |-
+    18DAF1DA03410528
+    18DAF1DB03410528
+    18DAF1DF034105F0
+- expected_values:
+    ECT: 15
+  response: |-
+    18DAF1DA03410537
+    18DAF11503410537
+    18DAF1DB03410537
+    18DAF1DF03410537
+- expected_values:
+    ECT: 44
+  response: |-
+    18DAF1DA03410554
+    18DAF1DF03410554
+    18DAF11503410554
+    18DAF1DB03410554
+- expected_values:
+    ECT: 55
+  response: |-
+    18DAF1DA0341055F
+    18DAF1DF034105F0
+    18DAF1DB0341055F
+- expected_values:
+    ECT: 0
+  response: |-
+    18DAF1DB03410528
+    18DAF1DF034105F0
+    18DAF1DA03410528
+- expected_values:
+    ECT: 200
+  response: |-
+    18DAF1DB03410557
+    18DAF1DA03410557
+    18DAF1DF034105F0
+- expected_values:
+    ECT: 200
+  response: |-
+    18DAF1DB0341055F
+    18DAF1DA0341055F
+    18DAF1DF034105F0
+- expected_values:
+    ECT: 32
+  response: |-
+    18DAF1DF03410548
+    18DAF11503410548
+    18DAF1DA03410548
+    18DAF1DB03410548
+- expected_values:
+    ECT: 44
+  response: |-
+    18DAF1DF034105F0
+    18DAF1DA03410554
+    18DAF1DB03410554
