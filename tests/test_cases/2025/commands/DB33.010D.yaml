@@ -4,5 +4,105 @@ test_cases:
     VSS: 0
   response: 18DAF11503410D00
 - expected_values:
-    VSS: 130
-  response: 18DAF11503410D82
+    VSS: 0
+  response: |-
+    18DAF11503410D00
+    18DAF1DA03410D00
+    18DAF1DB03410D00
+    18DAF1DF03410D00
+- expected_values:
+    VSS: 0
+  response: |-
+    18DAF11503410D00
+    18DAF1DA03410D00
+    18DAF1DF03410D00
+    18DAF1DB03410D00
+- expected_values:
+    VSS: 0
+  response: |-
+    18DAF11503410D00
+    18DAF1DB03410D00
+    18DAF1DF03410D00
+    18DAF1DA03410D00
+- expected_values:
+    VSS: 0
+  response: |-
+    18DAF11503410D00
+    18DAF1DF03410D00
+    18DAF1DA03410D00
+    18DAF1DB03410D00
+- expected_values:
+    VSS: 14
+  response: |-
+    18DAF11503410D0C
+    18DAF1DA03410D0F
+    18DAF1DB03410D0E
+    18DAF1DF03410D0E
+- expected_values:
+    VSS: 81
+  response: |-
+    18DAF11503410D50
+    18DAF1DA03410D50
+    18DAF1DB03410D50
+    18DAF1DF03410D51
+- expected_values:
+    VSS: 87
+  response: |-
+    18DAF11503410D56
+    18DAF1DA03410D57
+    18DAF1DB03410D57
+    18DAF1DF03410D57
+- expected_values:
+    VSS: 145
+  response: 18DAF11503410D91
+- expected_values:
+    VSS: 0
+  response: |-
+    18DAF1DA03410D00
+    18DAF11503410D00
+    18DAF1DB03410D00
+    18DAF1DF03410D00
+- expected_values:
+    VSS: 0
+  response: |-
+    18DAF1DA03410D00
+    18DAF1DB03410D00
+    18DAF1DF03410D00
+- expected_values:
+    VSS: 0
+  response: |-
+    18DAF1DA03410D00
+    18DAF1DF03410D00
+    18DAF11503410D00
+    18DAF1DB03410D00
+- expected_values:
+    VSS: 0
+  response: |-
+    18DAF1DA03410D00
+    18DAF1DF03410D00
+    18DAF1DB03410D00
+- expected_values:
+    VSS: 0
+  response: |-
+    18DAF1DB03410D00
+    18DAF1DA03410D00
+    18DAF1DF03410D00
+- expected_values:
+    VSS: 0
+  response: |-
+    18DAF1DB03410D00
+    18DAF1DF03410D00
+    18DAF1DA03410D00
+- expected_values:
+    VSS: 0
+  response: |-
+    18DAF1DF03410D00
+    18DAF11503410D00
+    18DAF1DA03410D00
+    18DAF1DB03410D00
+- expected_values:
+    VSS: 0
+  response: |-
+    18DAF1DF03410D00
+    18DAF1DA03410D00
+    18DAF1DB03410D00
