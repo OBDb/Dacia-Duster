@@ -2,6 +2,10 @@ command_id: DB33.0103
 test_cases:
 - expected_values:
     FUELSYS1: 'OFF'
+    FUELSYS2: 'OFF'
+  response: 18DAF1150441030000
+- expected_values:
+    FUELSYS1: 'OFF'
     FUELSYS2: OL
   response: 18DAF1150441030001
 - expected_values:
@@ -16,3 +20,7 @@ test_cases:
     FUELSYS1: CL
     FUELSYS2: 'OFF'
   response: 18DAF1150441030200
+- expected_values:
+    FUELSYS1: OL-Drive
+    FUELSYS2: 'OFF'
+  response: 18DAF1150441030400
