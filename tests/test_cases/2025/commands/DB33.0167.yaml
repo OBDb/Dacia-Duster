@@ -48,3 +48,9 @@ test_cases:
     ECT_2: 0
     ECT_2_SUP: 0
   response: 18DAF115054167018A28
+- expected_values:
+    ECT_1: 48
+    ECT_1_SUP: 1
+    ECT_2: 0
+    ECT_2_SUP: 1
+  response: 18DAF115054167035828
