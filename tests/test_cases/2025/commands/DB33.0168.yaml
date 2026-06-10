@@ -17,117 +17,17 @@ test_cases:
     18DAF1151009416803393A28
     18DAF11521282828AAAAAAAA
 - expected_values:
-    IAT_11: 18
+    IAT_11: 27
     IAT_11_SUP: 1
-    IAT_12: 21
+    IAT_12: 27
     IAT_12_SUP: 1
-    IAT_13: 0
     IAT_13_SUP: 0
-    IAT_21: 0
     IAT_21_SUP: 0
-    IAT_22: 0
     IAT_22_SUP: 0
-    IAT_23: 0
     IAT_23_SUP: 0
   response: |-
-    18DAF11510094168033A3D28
-    18DAF11521282828AAAAAAAA
-- expected_values:
-    IAT_11: 19
-    IAT_11_SUP: 1
-    IAT_12: 26
-    IAT_12_SUP: 1
-    IAT_13: 0
-    IAT_13_SUP: 0
-    IAT_21: 0
-    IAT_21_SUP: 0
-    IAT_22: 0
-    IAT_22_SUP: 0
-    IAT_23: 0
-    IAT_23_SUP: 0
-  response: |-
-    18DAF11510094168033B4228
-    18DAF11521282828AAAAAAAA
-- expected_values:
-    IAT_11: 23
-    IAT_11_SUP: 1
-    IAT_12: 24
-    IAT_12_SUP: 1
-    IAT_13: 0
-    IAT_13_SUP: 0
-    IAT_21: 0
-    IAT_21_SUP: 0
-    IAT_22: 0
-    IAT_22_SUP: 0
-    IAT_23: 0
-    IAT_23_SUP: 0
-  response: |-
-    18DAF11510094168033F4028
-    18DAF11521282828AAAAAAAA
-- expected_values:
-    IAT_11: 23
-    IAT_11_SUP: 1
-    IAT_12: 40
-    IAT_12_SUP: 1
-    IAT_13: 0
-    IAT_13_SUP: 0
-    IAT_21: 0
-    IAT_21_SUP: 0
-    IAT_22: 0
-    IAT_22_SUP: 0
-    IAT_23: 0
-    IAT_23_SUP: 0
-  response: |-
-    18DAF11510094168033F5028
-    18DAF11521282828AAAAAAAA
-- expected_values:
-    IAT_11: 24
-    IAT_11_SUP: 1
-    IAT_12: 24
-    IAT_12_SUP: 1
-    IAT_13: 0
-    IAT_13_SUP: 0
-    IAT_21: 0
-    IAT_21_SUP: 0
-    IAT_22: 0
-    IAT_22_SUP: 0
-    IAT_23: 0
-    IAT_23_SUP: 0
-  response: |-
-    18DAF1151009416803404028
-    18DAF11521282828AAAAAAAA
-- expected_values:
-    IAT_11: 24
-    IAT_11_SUP: 1
-    IAT_12: 25
-    IAT_12_SUP: 1
-    IAT_13: 0
-    IAT_13_SUP: 0
-    IAT_21: 0
-    IAT_21_SUP: 0
-    IAT_22: 0
-    IAT_22_SUP: 0
-    IAT_23: 0
-    IAT_23_SUP: 0
-  response: |-
-    18DAF1151009416803404128
-    18DAF11521282828AAAAAAAA
-- expected_values:
-    IAT_11: 24
-    IAT_11_SUP: 1
-    IAT_12: 26
-    IAT_12_SUP: 1
-    IAT_13: 0
-    IAT_13_SUP: 0
-    IAT_21: 0
-    IAT_21_SUP: 0
-    IAT_22: 0
-    IAT_22_SUP: 0
-    IAT_23: 0
-    IAT_23_SUP: 0
-  response: |-
-    18DAF1151009416803404228
-    18DAF11521282828AAAAAAAA
+    18DAF1151009416803434300
+    18DAF11521000000AAAAAAAA
 - expected_values:
     IAT_11: 33
     IAT_11_SUP: 1
