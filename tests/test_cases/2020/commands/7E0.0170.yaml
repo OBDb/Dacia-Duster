@@ -1,0 +1,136 @@
+command_id: 7E0.0170
+test_cases:
+- expected_values:
+    BP_A: BP_A_CL
+    BP_A_ACT: 96.96875
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 79.96875
+    BP_A_CMD_SUP: 1
+    BP_A_SUP: 0
+    BP_B_ACT: 2047.96875
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 2047.96875
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 1
+  response: |-
+    7E8100C41702309FF0C
+    7E8211FFFFFFFFF02AA
+- expected_values:
+    BP_A: BP_A_CL
+    BP_A_ACT: 97
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 79.96875
+    BP_A_CMD_SUP: 1
+    BP_A_SUP: 0
+    BP_B_ACT: 2047.96875
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 2047.96875
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 1
+  response: |-
+    7E8100C41702309FF0C
+    7E82120FFFFFFFF02AA
+- expected_values:
+    BP_A: BP_A_CL
+    BP_A_ACT: 97.0625
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 79.96875
+    BP_A_CMD_SUP: 1
+    BP_A_SUP: 0
+    BP_B_ACT: 2047.96875
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 2047.96875
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 1
+  response: |-
+    7E8100C41702309FF0C
+    7E82122FFFFFFFF02AA
+- expected_values:
+    BP_A: BP_A_CL
+    BP_A_ACT: 97.09375
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 79.96875
+    BP_A_CMD_SUP: 1
+    BP_A_SUP: 0
+    BP_B_ACT: 2047.96875
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 2047.96875
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 1
+  response: |-
+    7E8100C41702309FF0C
+    7E82123FFFFFFFF02AA
+- expected_values:
+    BP_A: BP_A_CL
+    BP_A_ACT: 97.125
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 79.96875
+    BP_A_CMD_SUP: 1
+    BP_A_SUP: 0
+    BP_B_ACT: 2047.96875
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 2047.96875
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 1
+  response: |-
+    7E8100C41702309FF0C
+    7E82124FFFFFFFF02AA
+- expected_values:
+    BP_A_ACT: 97.15625
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 79.96875
+    BP_A_CMD_SUP: 1
+    BP_A_SUP: 0
+    BP_B_ACT: 2047.96875
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 2047.96875
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 1
+  response: |-
+    7E8100C41702309FF0C
+    7E82125FFFFFFFF00AA
+- expected_values:
+    BP_A: BP_A_CL
+    BP_A_ACT: 97.15625
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 79.96875
+    BP_A_CMD_SUP: 1
+    BP_A_SUP: 0
+    BP_B_ACT: 2047.96875
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 2047.96875
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 1
+  response: |-
+    7E8100C41702309FF0C
+    7E82125FFFFFFFF02AA
+- expected_values:
+    BP_A: BP_A_OL
+    BP_A_ACT: 90.3125
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 121.71875
+    BP_A_CMD_SUP: 1
+    BP_A_SUP: 0
+    BP_B_ACT: 2047.96875
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 2047.96875
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 1
+  response: |-
+    7E8100C4170230F370B
+    7E8214AFFFFFFFF01AA
+- expected_values:
+    BP_A: BP_A_OL
+    BP_A_ACT: 90.34375
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 121.71875
+    BP_A_CMD_SUP: 1
+    BP_A_SUP: 0
+    BP_B_ACT: 2047.96875
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 2047.96875
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 1
+  response: |-
+    7E8100C4170230F370B
+    7E8214BFFFFFFFF01AA
