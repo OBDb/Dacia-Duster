@@ -1,0 +1,5 @@
+command_id: 7E0.22201E
+test_cases:
+- expected_values:
+    DUSTER_AC_COMP: 0
+  response: 7E80462201E00
