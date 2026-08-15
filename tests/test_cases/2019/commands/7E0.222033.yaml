@@ -1,0 +1,29 @@
+command_id: 7E0.222033
+test_cases:
+- expected_values:
+    DUSTER_IN_CAM_DEPHASER_OCR: 8.98
+  response: '7E8056220330382'
+- expected_values:
+    DUSTER_IN_CAM_DEPHASER_OCR: 9.84
+  response: 7E80562203303D8
+- expected_values:
+    DUSTER_IN_CAM_DEPHASER_OCR: 10
+  response: 7E80562203303E8
+- expected_values:
+    DUSTER_IN_CAM_DEPHASER_OCR: 10.23
+  response: 7E80562203303FF
+- expected_values:
+    DUSTER_IN_CAM_DEPHASER_OCR: 10.31
+  response: '7E8056220330407'
+- expected_values:
+    DUSTER_IN_CAM_DEPHASER_OCR: 41.24
+  response: 7E805622033101C
+- expected_values:
+    DUSTER_IN_CAM_DEPHASER_OCR: 41.27
+  response: 7E805622033101F
+- expected_values:
+    DUSTER_IN_CAM_DEPHASER_OCR: 41.47
+  response: '7E8056220331033'
+- expected_values:
+    DUSTER_IN_CAM_DEPHASER_OCR: 45.44
+  response: 7E80562203311C0
