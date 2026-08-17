@@ -1,0 +1,5 @@
+command_id: '748.223026'
+test_cases:
+- expected_values:
+    DUSTER_OP_MODE: 0
+  response: '7680462302600'
