@@ -1,0 +1,20 @@
+command_id: 748.22300A
+test_cases:
+- expected_values:
+    DUSTER_ACCEL_POS_TC: 0
+  response: 7680562300A0000
+- expected_values:
+    DUSTER_ACCEL_POS_TC: 0
+  response: 7680562300A004B
+- expected_values:
+    DUSTER_ACCEL_POS_TC: 0
+  response: 7680562300A00C1
+- expected_values:
+    DUSTER_ACCEL_POS_TC: 0
+  response: 7680562300A00DE
+- expected_values:
+    DUSTER_ACCEL_POS_TC: 0
+  response: 7680562300A00F0
+- expected_values:
+    DUSTER_ACCEL_POS_TC: 1
+  response: 7680562300A0103
