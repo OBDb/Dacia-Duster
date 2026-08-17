@@ -1,0 +1,5 @@
+command_id: 7E0.222494
+test_cases:
+- expected_values:
+    DUSTER_TEST_RESULT_2: 3
+  response: '7E80462249403'
