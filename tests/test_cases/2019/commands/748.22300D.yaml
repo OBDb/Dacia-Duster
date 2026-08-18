@@ -1,0 +1,5 @@
+command_id: 748.22300D
+test_cases:
+- expected_values:
+    DUSTER_MOTOR_STS_TC: 2
+  response: 7680462300D02
