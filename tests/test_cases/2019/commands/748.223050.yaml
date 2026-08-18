@@ -1,0 +1,5 @@
+command_id: '748.223050'
+test_cases:
+- expected_values:
+    DUSTER_GEARBOX_TYPE: 1
+  response: '7680462305001'
