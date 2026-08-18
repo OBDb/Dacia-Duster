@@ -1,0 +1,20 @@
+command_id: 7E0.22200C
+test_cases:
+- expected_values:
+    DUSTER_ACCEL_POT_V2: 0.36
+  response: 7E80562200C0168
+- expected_values:
+    DUSTER_ACCEL_POT_V2: 0.361
+  response: 7E80562200C0169
+- expected_values:
+    DUSTER_ACCEL_POT_V2: 0.52
+  response: 7E80562200C0208
+- expected_values:
+    DUSTER_ACCEL_POT_V2: 0.585
+  response: 7E80562200C0249
+- expected_values:
+    DUSTER_ACCEL_POT_V2: 0.626
+  response: 7E80562200C0272
+- expected_values:
+    DUSTER_ACCEL_POT_V2: 0.665
+  response: 7E80562200C0299
