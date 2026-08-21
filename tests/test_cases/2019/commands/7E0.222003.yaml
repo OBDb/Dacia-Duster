@@ -1,0 +1,29 @@
+command_id: 7E0.222003
+test_cases:
+- expected_values:
+    DUSTER_VSS: 0
+  response: '7E8056220030000'
+- expected_values:
+    DUSTER_VSS: 28.37
+  response: 7E8056220030B15
+- expected_values:
+    DUSTER_VSS: 42.1
+  response: '7E8056220031072'
+- expected_values:
+    DUSTER_VSS: 43.68
+  response: '7E8056220031110'
+- expected_values:
+    DUSTER_VSS: 47.29
+  response: '7E8056220031279'
+- expected_values:
+    DUSTER_VSS: 48.99
+  response: '7E8056220031323'
+- expected_values:
+    DUSTER_VSS: 49.99
+  response: '7E8056220031387'
+- expected_values:
+    DUSTER_VSS: 59.1
+  response: '7E8056220031716'
+- expected_values:
+    DUSTER_VSS: 64.81
+  response: '7E8056220031951'
