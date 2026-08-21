@@ -1,0 +1,8 @@
+command_id: 7E0.222099
+test_cases:
+- expected_values:
+    DUSTER_ALT_LOAD: 3.52941
+  response: '7E80462209909'
+- expected_values:
+    DUSTER_ALT_LOAD: 37.2549
+  response: 7E8046220995F
