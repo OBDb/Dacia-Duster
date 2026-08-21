@@ -1,0 +1,8 @@
+command_id: 7E0.22FD81
+test_cases:
+- expected_values:
+    DUSTER_MANIFOLD_P_SNS_V: 0.06958
+  response: 7E80562FD81011D
+- expected_values:
+    DUSTER_MANIFOLD_P_SNS_V: 0.11426
+  response: 7E80562FD8101D4
