@@ -1,0 +1,26 @@
+command_id: 7E0.22244B
+test_cases:
+- expected_values:
+    DUSTER_O2_UP_HEAT_R: 27.05882
+  response: 7E80462244B45
+- expected_values:
+    DUSTER_O2_UP_HEAT_R: 27.45098
+  response: 7E80462244B46
+- expected_values:
+    DUSTER_O2_UP_HEAT_R: 29.41176
+  response: 7E80462244B4B
+- expected_values:
+    DUSTER_O2_UP_HEAT_R: 30.58824
+  response: 7E80462244B4E
+- expected_values:
+    DUSTER_O2_UP_HEAT_R: 32.15686
+  response: 7E80462244B52
+- expected_values:
+    DUSTER_O2_UP_HEAT_R: 32.54902
+  response: 7E80462244B53
+- expected_values:
+    DUSTER_O2_UP_HEAT_R: 32.94118
+  response: 7E80462244B54
+- expected_values:
+    DUSTER_O2_UP_HEAT_R: 46.66667
+  response: 7E80462244B77
