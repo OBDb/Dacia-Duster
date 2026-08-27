@@ -1,0 +1,23 @@
+command_id: 7E0.222031
+test_cases:
+- expected_values:
+    DUSTER_IN_CAM_DEPHASING: 0
+  response: '7E8056220310000'
+- expected_values:
+    DUSTER_IN_CAM_DEPHASING: 0.06
+  response: '7E8056220310003'
+- expected_values:
+    DUSTER_IN_CAM_DEPHASING: 0.2
+  response: 7E805622031000A
+- expected_values:
+    DUSTER_IN_CAM_DEPHASING: 6.98
+  response: 7E805622031015D
+- expected_values:
+    DUSTER_IN_CAM_DEPHASING: 20.08
+  response: 7E80562203103EC
+- expected_values:
+    DUSTER_IN_CAM_DEPHASING: 20.52
+  response: '7E8056220310402'
+- expected_values:
+    DUSTER_IN_CAM_DEPHASING: 37.26
+  response: '7E8056220310747'
