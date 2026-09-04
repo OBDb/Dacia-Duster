@@ -1,0 +1,32 @@
+command_id: 7E0.222057
+test_cases:
+- expected_values:
+    DUSTER_ALT_PWR: 130
+  response: 7E805622057000D
+- expected_values:
+    DUSTER_ALT_PWR: 200
+  response: '7E8056220570014'
+- expected_values:
+    DUSTER_ALT_PWR: 230
+  response: '7E8056220570017'
+- expected_values:
+    DUSTER_ALT_PWR: 310
+  response: 7E805622057001F
+- expected_values:
+    DUSTER_ALT_PWR: 430
+  response: 7E805622057002B
+- expected_values:
+    DUSTER_ALT_PWR: 440
+  response: 7E805622057002C
+- expected_values:
+    DUSTER_ALT_PWR: 540
+  response: '7E8056220570036'
+- expected_values:
+    DUSTER_ALT_PWR: 560
+  response: '7E8056220570038'
+- expected_values:
+    DUSTER_ALT_PWR: 580
+  response: 7E805622057003A
+- expected_values:
+    DUSTER_ALT_PWR: 590
+  response: 7E805622057003B
