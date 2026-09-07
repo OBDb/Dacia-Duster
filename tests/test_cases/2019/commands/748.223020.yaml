@@ -1,0 +1,8 @@
+command_id: '748.223020'
+test_cases:
+- expected_values:
+    DUSTER_CLUTCH_T: 38
+  response: '7680462302026'
+- expected_values:
+    DUSTER_CLUTCH_T: 39
+  response: '7680462302027'
