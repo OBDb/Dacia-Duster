@@ -1,0 +1,11 @@
+command_id: 7E0.222004
+test_cases:
+- expected_values:
+    DUSTER_ENGINE_TORQUE: -5.6875
+  response: 7E805622004314A
+- expected_values:
+    DUSTER_ENGINE_TORQUE: -0.78125
+  response: 7E80562200431E7
+- expected_values:
+    DUSTER_ENGINE_TORQUE: 56.65625
+  response: '7E8056220043915'
