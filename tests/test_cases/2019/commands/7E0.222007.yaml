@@ -1,0 +1,11 @@
+command_id: 7E0.222007
+test_cases:
+- expected_values:
+    DUSTER_EST_OIL_T: 20.3
+  response: 7E8056220070B75
+- expected_values:
+    DUSTER_EST_OIL_T: 32.7
+  response: 7E8056220070BF1
+- expected_values:
+    DUSTER_EST_OIL_T: 36.3
+  response: 7E8056220070C15
