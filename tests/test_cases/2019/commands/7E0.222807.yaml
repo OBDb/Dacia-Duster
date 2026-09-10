@@ -1,0 +1,8 @@
+command_id: 7E0.222807
+test_cases:
+- expected_values:
+    DUSTER_IGN_TIMING_ADV: 45
+  response: 7E8046228072D
+- expected_values:
+    DUSTER_IGN_TIMING_ADV: 133
+  response: '7E80462280785'
