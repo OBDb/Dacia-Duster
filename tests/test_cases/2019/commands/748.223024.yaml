@@ -1,0 +1,6 @@
+command_id: '748.223024'
+test_cases:
+- expected_values:
+    DUSTER_4WD_MODE_MON: 0
+    DUSTER_WARNING_LIGHT: 0
+  response: '768056230240000'
