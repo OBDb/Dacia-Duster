@@ -1,0 +1,17 @@
+command_id: 7E0.22222A
+test_cases:
+- expected_values:
+    DUSTER_REFRIG_P: 5
+  response: 7E80562222A0032
+- expected_values:
+    DUSTER_REFRIG_P: 5.2
+  response: 7E80562222A0034
+- expected_values:
+    DUSTER_REFRIG_P: 5.3
+  response: 7E80562222A0035
+- expected_values:
+    DUSTER_REFRIG_P: 5.5
+  response: 7E80562222A0037
+- expected_values:
+    DUSTER_REFRIG_P: 5.7
+  response: 7E80562222A0039

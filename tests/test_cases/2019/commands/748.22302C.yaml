@@ -1,0 +1,20 @@
+command_id: 748.22302C
+test_cases:
+- expected_values:
+    DUSTER_TORQUE_APPLIED: 0
+  response: 7680562302C0000
+- expected_values:
+    DUSTER_TORQUE_APPLIED: 0
+  response: 7680562302C00FF
+- expected_values:
+    DUSTER_TORQUE_APPLIED: 30
+  response: 7680562302C0303
+- expected_values:
+    DUSTER_TORQUE_APPLIED: 30
+  response: 7680562302C0304
+- expected_values:
+    DUSTER_TORQUE_APPLIED: 50
+  response: 7680562302C0504
+- expected_values:
+    DUSTER_TORQUE_APPLIED: 50
+  response: 7680562302C05FF
