@@ -1,0 +1,8 @@
+command_id: 748.22302D
+test_cases:
+- expected_values:
+    DUSTER_INT_FAULT_CODE: 10
+  response: 7680762302D0000000A
+- expected_values:
+    DUSTER_INT_FAULT_CODE: 42
+  response: 7680762302D0000002A
