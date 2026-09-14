@@ -1,0 +1,29 @@
+command_id: 7E0.22F423
+test_cases:
+- expected_values:
+    DUSTER_LPG_P: 197.2
+  response: 7E80562F42307B4
+- expected_values:
+    DUSTER_LPG_P: 198.9
+  response: 7E80562F42307C5
+- expected_values:
+    DUSTER_LPG_P: 199
+  response: 7E80562F42307C6
+- expected_values:
+    DUSTER_LPG_P: 199.2
+  response: 7E80562F42307C8
+- expected_values:
+    DUSTER_LPG_P: 199.4
+  response: 7E80562F42307CA
+- expected_values:
+    DUSTER_LPG_P: 200.1
+  response: 7E80562F42307D1
+- expected_values:
+    DUSTER_LPG_P: 248.6
+  response: 7E80562F42309B6
+- expected_values:
+    DUSTER_LPG_P: 248.8
+  response: 7E80562F42309B8
+- expected_values:
+    DUSTER_LPG_P: 249.2
+  response: 7E80562F42309BC
