@@ -1,0 +1,17 @@
+command_id: '748.223001'
+test_cases:
+- expected_values:
+    DUSTER_12V_BAT_V: 13.7
+  response: '7680462300189'
+- expected_values:
+    DUSTER_12V_BAT_V: 13.8
+  response: 768046230018A
+- expected_values:
+    DUSTER_12V_BAT_V: 14.1
+  response: 768046230018D
+- expected_values:
+    DUSTER_12V_BAT_V: 14.2
+  response: 768046230018E
+- expected_values:
+    DUSTER_12V_BAT_V: 14.8
+  response: '7680462300194'

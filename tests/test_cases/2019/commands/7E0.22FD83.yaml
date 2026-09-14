@@ -1,0 +1,8 @@
+command_id: 7E0.22FD83
+test_cases:
+- expected_values:
+    DUSTER_AIR_INLET_T_SNS_V: 0.05957
+  response: 7E80562FD8300F4
+- expected_values:
+    DUSTER_AIR_INLET_T_SNS_V: 0.06299
+  response: 7E80562FD830102
