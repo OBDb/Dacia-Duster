@@ -1,0 +1,32 @@
+command_id: 7E0.222419
+test_cases:
+- expected_values:
+    DUSTER_THROTTLE_V2: 1.855
+  response: 7E805622419073F
+- expected_values:
+    DUSTER_THROTTLE_V2: 3.983
+  response: 7E8056224190F8F
+- expected_values:
+    DUSTER_THROTTLE_V2: 4.073
+  response: 7E8056224190FE9
+- expected_values:
+    DUSTER_THROTTLE_V2: 4.121
+  response: '7E8056224191019'
+- expected_values:
+    DUSTER_THROTTLE_V2: 4.31
+  response: 7E80562241910D6
+- expected_values:
+    DUSTER_THROTTLE_V2: 4.313
+  response: 7E80562241910D9
+- expected_values:
+    DUSTER_THROTTLE_V2: 4.324
+  response: 7E80562241910E4
+- expected_values:
+    DUSTER_THROTTLE_V2: 4.367
+  response: 7E805622419110F
+- expected_values:
+    DUSTER_THROTTLE_V2: 4.371
+  response: '7E8056224191113'
+- expected_values:
+    DUSTER_THROTTLE_V2: 4.381
+  response: 7E805622419111D
