@@ -1,0 +1,5 @@
+command_id: '748.223022'
+test_cases:
+- expected_values:
+    DUSTER_TRANS_MODE_BTN_POS: 0
+  response: '7680462302200'
