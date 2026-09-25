@@ -1,0 +1,7 @@
+command_id: '748.223011'
+test_cases:
+- expected_values:
+    DUSTER_COUPLER: 0
+    DUSTER_ENGINE_TORQUE_REF: 1647.5
+    DUSTER_TORQUE_SETPT_PROG: 0
+  response: 768076230110FFF0000
