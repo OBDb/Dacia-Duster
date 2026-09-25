@@ -1,0 +1,32 @@
+command_id: 7E0.2224D7
+test_cases:
+- expected_values:
+    DUSTER_MANIFOLD_P_LIN: 239
+  response: 7E8056224D700EF
+- expected_values:
+    DUSTER_MANIFOLD_P_LIN: 240
+  response: 7E8056224D700F0
+- expected_values:
+    DUSTER_MANIFOLD_P_LIN: 256
+  response: 7E8056224D70100
+- expected_values:
+    DUSTER_MANIFOLD_P_LIN: 261
+  response: 7E8056224D70105
+- expected_values:
+    DUSTER_MANIFOLD_P_LIN: 271
+  response: 7E8056224D7010F
+- expected_values:
+    DUSTER_MANIFOLD_P_LIN: 272
+  response: 7E8056224D70110
+- expected_values:
+    DUSTER_MANIFOLD_P_LIN: 319
+  response: 7E8056224D7013F
+- expected_values:
+    DUSTER_MANIFOLD_P_LIN: 357
+  response: 7E8056224D70165
+- expected_values:
+    DUSTER_MANIFOLD_P_LIN: 474
+  response: 7E8056224D701DA
+- expected_values:
+    DUSTER_MANIFOLD_P_LIN: 664
+  response: 7E8056224D70298
