@@ -1,0 +1,5 @@
+command_id: 7E0.22209A
+test_cases:
+- expected_values:
+    DUSTER_IDLE_ADAPT_CORR: -0.3125
+  response: 7E80562209A7FF6
