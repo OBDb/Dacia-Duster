@@ -1,0 +1,14 @@
+command_id: 7E0.222418
+test_cases:
+- expected_values:
+    DUSTER_THROTTLE_V1: 0.623
+  response: 7E805622418026F
+- expected_values:
+    DUSTER_THROTTLE_V1: 0.679
+  response: 7E80562241802A7
+- expected_values:
+    DUSTER_THROTTLE_V1: 0.799
+  response: 7E805622418031F
+- expected_values:
+    DUSTER_THROTTLE_V1: 2.847
+  response: 7E8056224180B1F
