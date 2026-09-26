@@ -1,0 +1,29 @@
+command_id: '748.223008'
+test_cases:
+- expected_values:
+    DUSTER_VSS_TC: 0
+  response: '7680462300800'
+- expected_values:
+    DUSTER_VSS_TC: 7
+  response: '7680462300807'
+- expected_values:
+    DUSTER_VSS_TC: 37
+  response: '7680462300825'
+- expected_values:
+    DUSTER_VSS_TC: 47
+  response: 768046230082F
+- expected_values:
+    DUSTER_VSS_TC: 48
+  response: '7680462300830'
+- expected_values:
+    DUSTER_VSS_TC: 52
+  response: '7680462300834'
+- expected_values:
+    DUSTER_VSS_TC: 53
+  response: '7680462300835'
+- expected_values:
+    DUSTER_VSS_TC: 62
+  response: 768046230083E
+- expected_values:
+    DUSTER_VSS_TC: 63
+  response: 768046230083F

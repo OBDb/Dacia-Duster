@@ -1,0 +1,7 @@
+command_id: '748.223005'
+test_cases:
+- expected_values:
+    DUSTER_2WD_MODE_SW: 0
+    DUSTER_4WD_MODE_SW: 0
+    DUSTER_AUTO_MODE_SW: 1
+  response: '76806623005000100'
