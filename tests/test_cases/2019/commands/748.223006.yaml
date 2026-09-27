@@ -1,0 +1,50 @@
+command_id: '748.223006'
+test_cases:
+- expected_values:
+    DUSTER_FL_VSS: 0
+    DUSTER_FR_VSS: 0
+    DUSTER_RL_VSS: 0
+    DUSTER_RR_VSS: 0
+  response: '7680762300600000000'
+- expected_values:
+    DUSTER_FL_VSS: 320
+    DUSTER_FR_VSS: 320
+    DUSTER_RL_VSS: 320
+    DUSTER_RR_VSS: 320
+  response: '7680762300620202020'
+- expected_values:
+    DUSTER_FL_VSS: 360
+    DUSTER_FR_VSS: 350
+    DUSTER_RL_VSS: 350
+    DUSTER_RR_VSS: 350
+  response: '7680762300623242323'
+- expected_values:
+    DUSTER_FL_VSS: 360
+    DUSTER_FR_VSS: 360
+    DUSTER_RL_VSS: 360
+    DUSTER_RR_VSS: 360
+  response: '7680762300624242424'
+- expected_values:
+    DUSTER_FL_VSS: 390
+    DUSTER_FR_VSS: 390
+    DUSTER_RL_VSS: 380
+    DUSTER_RR_VSS: 380
+  response: '7680762300627272626'
+- expected_values:
+    DUSTER_FL_VSS: 450
+    DUSTER_FR_VSS: 450
+    DUSTER_RL_VSS: 440
+    DUSTER_RR_VSS: 450
+  response: 768076230062D2D2D2C
+- expected_values:
+    DUSTER_FL_VSS: 480
+    DUSTER_FR_VSS: 480
+    DUSTER_RL_VSS: 470
+    DUSTER_RR_VSS: 480
+  response: 768076230063030302F
+- expected_values:
+    DUSTER_FL_VSS: 510
+    DUSTER_FR_VSS: 510
+    DUSTER_RL_VSS: 510
+    DUSTER_RR_VSS: 510
+  response: '7680762300633333333'
